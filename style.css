@@ -1,0 +1,29 @@
+
+Body{
+  Background-color: #E0FFFF;
+  Margin:20px 20px 20px 20px;
+}
+
+H1{
+  Font-family:"Times New Roman", Times, serif;
+  Text-align:center;
+  Font-size: 30px;
+}
+
+H2{
+  Font-family:"Times New Roman", Times, serif;
+  Font-size: 20px;
+}
+
+
+P{
+  Margin:25px 25px 25px 25px;
+  Font-family: Verdana, Helvetica, sans-serif;
+  Font-size: 15px;
+}
+
+ol{
+  Margin:25px 25px 25px 25px;
+  Font-family: Verdana, Helvetica, sans-serif;
+  Font-size: 15px;
+}
